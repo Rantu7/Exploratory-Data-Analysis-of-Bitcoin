@@ -147,4 +147,4 @@ with the code.
   means, buyers who invested in bitcoin and sold them within this time
   period faced major financial loss.
 
-##> Thank you for reading!
+## > Thank you for reading!
