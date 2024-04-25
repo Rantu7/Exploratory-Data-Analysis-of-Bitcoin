@@ -14,6 +14,7 @@ statistical analysis, machine learning or other data science projects.
 
 # **<u>About the Data:</u>**
 
+
 The data comes in a .csv file which can be downloaded
 [here](https://github.com/Rantu7/Exploratory-Data-Analysis-of-Bitcoin/blob/main/coin_Bitcoin.csv).
 The dataset contains 2991 entries with the following columns:
