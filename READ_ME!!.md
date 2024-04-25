@@ -40,17 +40,17 @@ Marketcap: Market capitalization
 
 ## **<u>Data Analysis Steps:</u>**
 
-1.  **Importing Python libraries** :
+### 1.  **Importing Python libraries** :
 
 For data manipulation and mathematical calculation: Numpy & Pandas
 
 For Visualization: Seaborn and Matplotlib.pyplot
 
-2.  **Importing Data**: The data was downloaded from the internet in
+### 2.  **Importing Data**: The data was downloaded from the internet in
     .csv format. Then it was directly loaded in Python from the
     computer.
 
-3.  **Cleaning the data**: Though there are numerous ways to clean dirty
+### 3.  **Cleaning the data**: Though there are numerous ways to clean dirty
     data, the following actions were taken to clean the downloaded data:
 
     1.  Modifying column values to improve readability
@@ -65,9 +65,9 @@ For Visualization: Seaborn and Matplotlib.pyplot
 
     6.  Removing unnecessary columns
 
-4.  **Exploratory Data Analysis**:
+### 4.  **Exploratory Data Analysis**:
 
-The attached python file briefly explains each step of the EDA along
+The attached python notebook [file](https://github.com/Rantu7/Exploratory-Data-Analysis-of-Bitcoin/blob/main/bitcoin-Copy3.ipynb) briefly explains each step of the EDA along
 with the code.
 
 ## <u>**Observations and Insights**:</u>
@@ -145,4 +145,4 @@ with the code.
   means, buyers who invested in bitcoin and sold them within this time
   period faced major financial loss.
 
-> Thank you for reading!
+##> Thank you for reading!
