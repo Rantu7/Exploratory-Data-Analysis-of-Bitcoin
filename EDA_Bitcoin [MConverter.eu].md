@@ -1,11 +1,8 @@
-<img src="media/image1.jpeg" style="width:3.92in;height:2.60741in"
-alt="gold and black round coin" />
-
-**Project Name: Exploratory Data Analysis of Bitcoin Price in Python**
+#**Project Name: Exploratory Data Analysis of Bitcoin Price in Python**
 
 **By:** Rantu Adhikary
 
-**<u>Objective</u>**
+##**<u>Objective</u>**
 
 The objective of this project is to perform an exploratory data analysis
 on the historical prices of Bitcoin. The project provides a general
