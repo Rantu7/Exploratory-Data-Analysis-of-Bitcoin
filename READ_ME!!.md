@@ -47,12 +47,13 @@ For data manipulation and mathematical calculation: Numpy & Pandas
 
 For Visualization: Seaborn and Matplotlib.pyplot
 
-### 2.  **Importing Data**: The data was downloaded from the internet in
-    .csv format. Then it was directly loaded in Python from the
-    computer.
+### 2.  **Importing Data**: 
 
-### 3.  **Cleaning the data**: Though there are numerous ways to clean dirty
-    data, the following actions were taken to clean the downloaded data:
+The data was downloaded from the internet in.csv format.Then it was directly loaded in Python from the computer.
+
+### 3.  **Cleaning the data**: 
+
+Though there are numerous ways to clean dirty data, the following actions were taken to clean the downloaded data:
 
     1.  Modifying column values to improve readability
 
