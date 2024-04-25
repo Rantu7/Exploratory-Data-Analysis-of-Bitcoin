@@ -12,7 +12,7 @@ visualization techniques available in python libraries. It also cleans
 and prepares the data so that the data can be used for complex
 statistical analysis, machine learning or other data science projects.
 
-**<u>About the Data:</u>**
+# **<u>About the Data:</u>**
 
 The data comes in a .csv file which can be downloaded
 [here](https://github.com/Rantu7/Exploratory-Data-Analysis-of-Bitcoin/blob/main/coin_Bitcoin.csv).
@@ -38,7 +38,7 @@ Volume: Trading volume
 
 Marketcap: Market capitalization
 
-**<u>Data Analysis Steps:</u>**
+## **<u>Data Analysis Steps:</u>**
 
 1.  **Importing Python libraries** :
 
@@ -70,7 +70,7 @@ For Visualization: Seaborn and Matplotlib.pyplot
 The attached python file briefly explains each step of the EDA along
 with the code.
 
-<u>**Observations and Insights**:</u>
+## <u>**Observations and Insights**:</u>
 
 - The market capitalization of Bitcoin, which is the total value of all
   Bitcoins in circulation, ranged from around **$778 million** to over
