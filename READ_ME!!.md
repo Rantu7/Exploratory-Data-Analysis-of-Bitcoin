@@ -12,7 +12,7 @@ visualization techniques available in python libraries. It also cleans
 and prepares the data so that the data can be used for complex
 statistical analysis, machine learning or other data science projects.
 
-# **<u>About the Data:</u>**
+# **<u>About the Data:</u>** <br>
 
 
 The data comes in a .csv file which can be downloaded
